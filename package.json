@@ -1,0 +1,23 @@
+{
+  "name": "crazysloths",
+  "version": "1.0.0",
+  "description": "This list is now automatically generated! <h1 align=\"center\">Hi, I'm Cristian Mark Angelo Llaneta</h1>\r <h3 align=\"center\">A BSIT student and aspiring Software Developer passionate about web systems, databases, and collaborative IT projects.</h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrazySloths/CrazySloths.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrazySloths/CrazySloths/issues"
+  },
+  "homepage": "https://github.com/CrazySloths/CrazySloths#readme",
+  "dependencies": {
+    "@octokit/rest": "^22.0.0"
+  }
+}
