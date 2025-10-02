@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cristian Mark Angelo Llaneta</h1>
+<h1 align="center">Hi, I'm Cristian Mark Angelo Llaneta</h1>
 <h3 align="center">A BSIT student and aspiring Software Developer passionate about web systems, databases, and collaborative IT projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazysloths&label=Profile%20views&color=0e75b6&style=flat" alt="crazysloths" /> </p>
