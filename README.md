@@ -7,13 +7,13 @@
 
 ---
 
-### 🛠️ Tech Stacks
+###Tech Stacks
 *This section is automatically updated by a GitHub Action I built!*
 
 <p>My skills will appear here soon!</p>
 ---
 
-### 📊 My GitHub Stats
+###My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crazysloths&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -22,4 +22,4 @@
 
 ---
 
-### 🌐 Connect with me:
+###Connect with me:
