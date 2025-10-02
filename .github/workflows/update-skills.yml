@@ -1,11 +1,14 @@
 name: Update Tech Stack in README
+
 on:
   schedule:
     - cron: '0 1 * * *'
   workflow_dispatch:
+  
 jobs:
   update_readme:
     runs-on: ubuntu-latest
+    
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -13,18 +16,20 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          
       - name: Install dependencies
         run: npm install
+        
       - name: Run the update script
         run: node scripts/update-readme.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'CI: Auto-update tech stack in README'
           file_pattern: 'README.md'
-          # You need to provide an author for the commit
           commit_user_name: 'GitHub Actions Bot'
           commit_user_email: 'actions@github.com'
           commit_author: 'GitHub Actions Bot <actions@github.com>'
