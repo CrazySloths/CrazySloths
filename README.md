@@ -1,6 +1,8 @@
 
 <img src="https://skillicons.dev/icons?i=tailwind" />
 
+<img src="https://skillicons.dev/icons?i=tailwind" />
+
 ### My Latest Repositories 
 
 _[CrazySloths](https://github.com/CrazySloths/CrazySloths)_
